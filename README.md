@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Making Helpful JS/TS Libraries](https://github.com/SeniorSedo?tab=repositories)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **CSS, JS and TS**
+- 💬 Ask me about **CSS, TS, Chocolate**
 
 - 📫 How to reach me **seniorsedo@gmail.com**
 
